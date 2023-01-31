@@ -29,3 +29,6 @@ Train accuracy 99%
 Test accuracy:70%
 
 ![image](https://user-images.githubusercontent.com/97779349/215776460-15938a9a-ca6b-4644-9d6f-309dfb41cc22.png)
+
+
+![image](https://user-images.githubusercontent.com/97779349/215776559-63f4b090-59cb-4b56-aa88-2ea7153a4ad0.png)
